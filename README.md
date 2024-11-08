@@ -33,7 +33,7 @@ A modern, feature-rich Next.js template for building scalable applications.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/NFNEEK/geekmode.git
 
 # Install dependencies
 npm install
@@ -141,9 +141,9 @@ Recommended rules:
 ## Quick Start Scripts
 
 ```bash
-# Setup new project from template
-gh repo create my-project --template yourusername/geekmode-nextjs-template
-
+# Replace 'my-project' with your desired project name
+gh repo create <my-project> --template NFNEEK/geekmode-template
+```
 # Open in Codespaces
 gh codespace create -r my-project
 
